@@ -1,0 +1,8 @@
+.CatList {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.CatListWrap {
+  display: flex;
+}

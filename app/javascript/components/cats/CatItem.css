@@ -1,0 +1,24 @@
+.CatItem {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  min-width: 200px;
+  padding: 15px;
+}
+
+.CatItem .Wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.CatItem img {
+  height: 150px;
+  width: 150px;
+  border-radius: 25px;
+}
